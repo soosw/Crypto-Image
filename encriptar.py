@@ -6,7 +6,7 @@ try:
     path = input(r'Enter path of Image : ')
 
     # taking encryption key as input
-    key = int(input('Enter Key for encryption of Image : '))
+    key = int(input('Enter Key for encryption of Image (just numbers) : '))
 
     # print path of image file and encryption key that
     # we are using
